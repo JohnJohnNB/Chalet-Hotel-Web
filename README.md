@@ -1,3 +1,3 @@
-# Projeto-Chale-Hotel
-Projeto para prática de HTML5 e CSS3 Intermediário
+# Chalet-Hotel-Web
+Chalet Hotel project with HTML and CSS
 ![](https://github.com/JohnJohnNB/Projeto-Chale-Hotel/blob/main/preview.gif)
